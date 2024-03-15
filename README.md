@@ -49,8 +49,7 @@
 <h3>🛠️Deploy🛠️</h3>
 <!-- AWS -->
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<!-- Netlify -->
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+
 
 <h3>🛠️Collaboration Tools🛠️</h3>
 <!-- Github -->
@@ -59,6 +58,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <!-- Notion -->
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<!-- Slack -->
+<img src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=white">
 
 </br>
 </br>
