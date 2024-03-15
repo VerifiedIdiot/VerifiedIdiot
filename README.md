@@ -1,7 +1,6 @@
 <div align="center">
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjck4433&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVerifiedIdiot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3>🛠️Tech Stacks🛠️</h3>
 <!-- HTML5 -->
@@ -62,18 +61,11 @@
 </br>
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hjck4433)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VerifiedIdiot)](https://git.io/streak-stats)
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjck4433&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-[![HyunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjck4433&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerifiedIdiot&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=VerifiedIdiot&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2&fontAlign=50&textBg=false&section=footer&fontSize=61&fontAlignY=42"/>
 
