@@ -1,16 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 <div align="left">
-
-
-<div style="text-align: left;"> 
+<div> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋🏻 Introduction  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> hi!</li><li>introducing~</li><li>contact me asap~</div> 
+    </br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">❗Features  </h2>  
 </div
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Features  </h2>  
-</div>
-
 
 <h3>🛠️Tech Stacks🛠️</h3>
 
