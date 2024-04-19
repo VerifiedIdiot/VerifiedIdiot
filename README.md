@@ -6,7 +6,10 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋🏻 Introduction  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> hi!</li><li>introducing~</li><li>contact me asap~</div> 
-    </div>
+</div
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Features  </h2>  
+</div>
 
 
 <h3>🛠️Tech Stacks🛠️</h3>
