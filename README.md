@@ -6,7 +6,7 @@
 
 <h3>🛠️Tech Stacks🛠️</h3>
 
-<h4>Front-end</h4>
+<h4>🛠️Front-end🛠️</h4>
 
 <!-- Javascript -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -17,7 +17,7 @@
 
 </br>
 
-<h4>Back-end</h4>
+<h4>🛠️Back-end🛠️</h4>
 
 <!-- Spring Boot -->
 <img src="https://img.shields.io/badge/Spring--Boot-6DB33F?style=for-the-badge&logo=Spring--Boot&logoColor=white">
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
 </br>
 
-<h4>Database</h4>
+<h4>🛠️Database🛠️</h4>
 
 <!-- Oracle -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
