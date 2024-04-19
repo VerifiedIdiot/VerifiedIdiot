@@ -6,6 +6,8 @@
 
 <h3>🛠️Tech Stacks🛠️</h3>
 
+<h4>Front-end</h4>
+
 <!-- Javascript -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <!-- React -->
@@ -15,17 +17,24 @@
 
 </br>
 
+<h4>Back-end</h4>
+
 <!-- Spring Boot -->
 <img src="https://img.shields.io/badge/Spring--Boot-6DB33F?style=for-the-badge&logo=Spring--Boot&logoColor=white">
-<!-- Jpa -->
-<img src="https://img.shields.io/badge/JPA--Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+<!-- Elasticsearch -->
+<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+</br>
+
+<h4>Database</h4>
+
 <!-- Oracle -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 <!-- MySQL -->
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<!-- Elasticsearch -->
-<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+<!-- MongoDB -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </br>
+
 
 <h3>🛠️Collaboration Tools🛠️</h3>
 <!-- Github -->
