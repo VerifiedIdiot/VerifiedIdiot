@@ -1,19 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-<div align="left">
-<div> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋🏻 Introduction  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> hi!</li><li>introducing~</li><li>contact me asap~</div> 
-    </br>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">❗Highligted Features</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        <li>한국 주요도시 실시간&단기&중기 날씨 구하기</li>
-        <li>캘린더 라이브러리를 활용한 다중 데이터 입출력 처리</li>
-        <li>엘라스틱서치를 활용한 다중필터링&검색</li>
-        <li>이미지 기반 정보 용량 최적화 및 렌더링</li>
-        <li>서버사이드 렌더링 기반 웹사이트 정보 스크래핑</div> 
-</div
-</br>
+
 
 <h3>🛠️Tech Stacks🛠️</h3>
 
